@@ -88,4 +88,3 @@ This project focuses on developing a classification model to detect fraudulent t
 
 ---
 
-Feel free to explore the detailed project files and code in this repository to gain insights into the implementation of these tasks.
