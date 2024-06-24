@@ -1,6 +1,6 @@
 # CODSOFT INTERNSHIP
 
-## Data Science Projects[Tasks]
+## Data Science Projects [Tasks]
 
 ### Task 1: Titanic Survival Prediction
 
